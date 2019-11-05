@@ -1,8 +1,9 @@
-package com.hungth.likezonev2;
+package com.hungth.likezonev2.ui.main;
 
 import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.hungth.likezonev2.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
